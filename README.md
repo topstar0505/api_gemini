@@ -1,4 +1,4 @@
-# Flask Web Service for Gemini API
+
 
 ## Set Up a Virtual Environment
 
@@ -62,8 +62,6 @@ Click on “Create API key.” Your key will be generated automatically, and you
 
 `python3 gemini.py`
 
-
 GET `/localhost:5000/google`
 
 POST `/localhost:5000/google`
-
