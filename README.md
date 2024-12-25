@@ -62,7 +62,6 @@ Click on “Create API key.” Your key will be generated automatically, and you
 
 `python3 gemini.py`
 
-## API Test
 
 GET `/localhost:5000/google`
 
